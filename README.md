@@ -21,9 +21,8 @@ To use the project, simply run it in Visual Studio by clicking the "Start" butto
 
 Here are some screenshots of the project in action:
 
-![Screenshot 1](C:\screenshots\food.png)
-![Screenshot 2](/screenshots/food.png)
-![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 1](/assets/food.png)
+![Screenshot 2](/assets/food1.png)
 
 ## Contributing
 
